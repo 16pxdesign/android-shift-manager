@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.ruszala.fueltrack.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+
+    <fragment
+        android:id="@+id/startShiftFragment"
+        android:name="com.ruszala.fueltrack.ui.shifts.homeshift.HomeShiftFragment"
+        android:label="start_shift_fragment"
+        tools:layout="@layout/start_shift_fragment" />
+    <fragment
+        android:id="@+id/newShiftFragment"
+        android:name="com.ruszala.fueltrack.ui.shifts.create.NewShiftFragment"
+        android:label="new_shift_fragment"
+        tools:layout="@layout/new_shift_fragment" />
+    <fragment
+        android:id="@+id/ShiftFragment"
+        android:name="com.ruszala.fueltrack.ui.shifts.endshift.ShiftFragment"
+        android:label="ShiftFragment" />
+    <fragment
+        android:id="@+id/historyShiftFragment"
+        android:name="com.ruszala.fueltrack.ui.shifts.history.HistoryShiftFragment"
+        android:label="history_shift_fragment"
+        tools:layout="@layout/history_shift_fragment" />
+    <fragment
+        android:id="@+id/orderHomeFragment"
+        android:name="com.ruszala.fueltrack.ui.orders.home.OrderHomeFragment"
+        android:label="OrderHomeFragment" />
+    <fragment
+        android:id="@+id/orderEditFragment"
+        android:name="com.ruszala.fueltrack.ui.orders.details.OrderEditFragment"
+        android:label="OrderEditFragment" />
+    <fragment
+        android:id="@+id/orderMapPreviewFragment"
+        android:name="com.ruszala.fueltrack.ui.orders.map.OrderMapPreviewFragment"
+        android:label="order_map_preview_fragment"
+        tools:layout="@layout/order_map_preview_fragment" />
+</navigation>
