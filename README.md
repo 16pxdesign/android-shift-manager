@@ -65,10 +65,10 @@ The prototype application is intended for the delivery drivers and allows them t
 
 # Preview
 ## Start with button, end with notification
-![image](https://user-images.githubusercontent.com/28375942/136113571-4b1d1f78-9882-4848-b2e6-6a59328a5651.png)
+![image](https://i.imgur.com/5PHdGIS.gif)
 
 ## Register/Fail/Login
-![image](https://user-images.githubusercontent.com/28375942/136113544-e5474f50-85c3-4026-ab28-8de61ee3fb83.png)
+![image](https://i.imgur.com/aHyiUIN.gif)
 
 
 
