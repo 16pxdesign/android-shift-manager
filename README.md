@@ -65,18 +65,23 @@ The prototype application is intended for the delivery drivers and allows them t
 
 # Preview
 ## Start with button, end with notification
+
 ![image](./Images/5PHdGIS.gif)
 
 ## Register/Fail/Login
+
 ![image](./Images/aHyiUIN.gif)
 
 ## Add order
+
 ![image](./Images/add.gif)
 
 ## Show on map
+
 ![image](./Images/map.gif)
 
 ## Send sms 
+
 ![image](./Images/sms.gif)
 
 
