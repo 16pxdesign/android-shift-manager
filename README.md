@@ -70,5 +70,13 @@ The prototype application is intended for the delivery drivers and allows them t
 ## Register/Fail/Login
 ![image](./Images/aHyiUIN.gif)
 
+## Add order
+![image](./Images/add.gif)
+
+## Show on map
+![image](./Images/map.gif)
+
+## Send sms 
+![image](./Images/sms.gif)
 
 
