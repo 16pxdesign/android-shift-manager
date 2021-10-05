@@ -62,3 +62,13 @@ The prototype application is intended for the delivery drivers and allows them t
 - Service show notification if application is run in background (no data access)
 - Start / End shift button got delay (Firebase)
 - Limited handle for Firebase Auth – not meaningfull message to user
+
+# Preview
+Start with button, end with notification
+![image](https://user-images.githubusercontent.com/28375942/136113571-4b1d1f78-9882-4848-b2e6-6a59328a5651.png)
+
+Register/Fail/Login
+![image](https://user-images.githubusercontent.com/28375942/136113544-e5474f50-85c3-4026-ab28-8de61ee3fb83.png)
+
+
+
